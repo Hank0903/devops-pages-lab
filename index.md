@@ -1,10 +1,5 @@
-\---
-
+---
 title: Home
+---
 
-\---
-
-
-
-{% include\_relative README.md %}
-
+{% include_relative README.md %}
