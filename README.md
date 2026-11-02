@@ -1,10 +1,5 @@
-# \# Hi, I'm Hank Zhen (Hank0903)
+# Hi, I'm Hank Zhen (Hank0903)
 
-# 
-
-# \## Recent activity
-
-# <!--START\_SECTION:activity-->
-
-# <!--END\_SECTION:activity-->
-
+## Recent activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
